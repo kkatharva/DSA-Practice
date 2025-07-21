@@ -1,3 +1,8 @@
+// Problem: 852. Peak Index in a Mountain Array
+// Link: https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+// Difficulty: Med
+// Topic: Array, BinarySearch
+
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
