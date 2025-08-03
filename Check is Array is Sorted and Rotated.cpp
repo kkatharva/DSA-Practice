@@ -1,3 +1,7 @@
+// Problem: 1752. Check is Array is Sorted and Rotated
+// Link: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
+// Difficulty: Easy
+// Topic: Array
 
 
 class Solution {
